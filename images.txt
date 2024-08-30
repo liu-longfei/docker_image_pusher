@@ -1,11 +1,4 @@
-nginx
+dataelement/bisheng-frontend:latest
 #支持私库
-mysql:8.0
-redis:7.0.4
-onlyoffice/documentserver:7.2.1
-dataelement/bisheng-backend:latest
-docker.io/bitnami/elasticsearch:8.12.0
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
