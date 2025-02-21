@@ -1,4 +1,9 @@
 #支持私库
-mysql:8.0
+redis:7.0.4
+onlyoffice/documentserver:7.1.1
+dataelement/bisheng-backend:v0.4.1
+dataelement/bisheng-frontend:v0.4.1
+docker.io/bitnami/elasticsearch:8.12.0
+milvusdb/milvus:v2.3.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
